@@ -2,7 +2,7 @@
 
 **Full Stack Developer**
 
- [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,react,docker,kafka,postgres,mongodb)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,react,next,docker,aws,kafka,postgres,mongodb)](https://skillicons.dev)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
